@@ -15,7 +15,8 @@ public class Relational {
 		System.out.println(a==b); // a is equal to b
 		System.out.println(a!=b);// a is not equal to b
 		System.out.println(a>=b); // a is greater than or equal to b
-		System.out.println(a<=b); //a is less than or equal to b
+		System.out.println(a<=b); //a is less than or equal to  b
 	}
 	
 }
+emaindhi raa unnavaaa
